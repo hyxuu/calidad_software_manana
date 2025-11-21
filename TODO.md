@@ -1,0 +1,5 @@
+- [x] Corregir errores en la función `calcularTotalCafeteria` en `consumo_cafeteria.js`
+- [x] Implementar la lógica para calcular el subtotal y agregar IVA del 13%
+- [x] Ajustar el export para que coincida con el nombre en el test
+- [x] Completar el archivo de pruebas `consumo_cafeteria.test.js` con casos de prueba
+- [x] Ejecutar las pruebas para verificar el funcionamiento
