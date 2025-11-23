@@ -1,4 +1,4 @@
-const {calcularPropina} = require('./propinaRestaurante.js')
+const {calcularPropina} = require('./calcularPropina.js')
 describe('Calcular propina', () => {
     test('Happy Path',()=>{
         const valorEsperado = {cuenta: 10,propina: 1.5,totalPagar: 11.5}
